@@ -310,11 +310,11 @@ fd826e7cf63160e536e0908c76c3f441|	addec96d2e059c80c30fe6871d30d177|	4534|	sao pa
 ---
 
 
-# A. [Data Exploration and Cleansing](https://github.com/Cong-hau/E-commerce-flatform-/blob/53f08697450822d43fcb7fc021051377196158b9/A.%20Data%20Exploration%20&%20Cleaning.md)
+# A. [Data Exploration and Cleansing](https://github.com/Cong-hau/E-commerce-flatform/blob/main/A.%20Data%20Exploration%20%26%20Cleaning.md)
 
 
 
-# B. [Analysis](https://github.com/Cong-hau/E-commerce-flatform-/blob/62c721a76945e391f12851256c763ab06489c848/B.%20Analysis.md))
+# B. [Analysis](https://github.com/Cong-hau/E-commerce-flatform/blob/main/B.%20Analysis.md)
 
 
 ---
